@@ -56,7 +56,7 @@ const Header = () => {
               </button>
             ))}
             <a
-              href="/resume.pdf"
+              href="public/vikas_kurimelly_resume.pdf"
               download="Vikas_Kurimelly_Resume.pdf"
               className="bg-gradient-to-r from-purple-500 to-blue-500 text-white px-6 py-2 rounded-full hover:from-purple-600 hover:to-blue-600 transition-all duration-300 flex items-center space-x-2"
             >
@@ -88,7 +88,7 @@ const Header = () => {
                 </button>
               ))}
               <a
-                href="public\vikas_kurimelly_resume.pdf"
+                href="public/vikas_kurimelly_resume.pdf"
                 download="Vikas_Kurimelly_Resume.pdf"
                 className="bg-gradient-to-r from-purple-500 to-blue-500 text-white px-6 py-2 rounded-full hover:from-purple-600 hover:to-blue-600 transition-all duration-300 flex items-center space-x-2 w-fit"
               >
