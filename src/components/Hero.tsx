@@ -64,7 +64,7 @@ const Hero = () => {
               <span>View Projects</span>
             </button>
             <a
-              href="/resume.pdf"
+              href="/vikas_kurimelly_resume.pdf"
               download="Vikas_Kurimelly_Resume.pdf"
               className="border-2 border-purple-500 text-purple-400 px-6 py-3 rounded-full text-lg font-semibold hover:bg-purple-500 hover:text-white transition-all duration-300 transform hover:scale-105 flex items-center justify-center space-x-2"
             >
